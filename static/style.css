@@ -204,7 +204,7 @@
     }
   
     .profile-header h1 {
-      font-size: 28px;
+      font-size: 22px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -212,7 +212,7 @@
     }
   
     .headline {
-      font-size: 18px;
+      font-size: 17px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
