@@ -58,11 +58,11 @@
   
   .profile-top {
     display: flex;
-    align-items: left;
+    align-items: flex-start;
+    justify-content: flex-start;
     gap: 30px;
     margin-bottom: 40px;
     flex-wrap: wrap;
-    justify-content: left;
   }
   
   .profile-photo img {
@@ -195,8 +195,8 @@
     }
   
     .profile-photo img {
-      width: 155px;
-      height: 155px;
+      width: 140px;
+      height: 140px;
     }
   
     .profile-header {
